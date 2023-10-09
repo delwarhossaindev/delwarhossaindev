@@ -18,6 +18,6 @@ Apart from my professional work, I enjoy working on side projects that challenge
 https://erp.mbm.group
 
 ### 💬 Let's Connect!
-I'm always eager to connect with fellow developers, discuss innovative ideas, and collaborate on exciting projects. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/delwar-hossain-9a6141253/)
+I'm always eager to connect with fellow developers, discuss innovative ideas, and collaborate on exciting projects. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/delwarHossain10/)
 
 Looking forward to collaborating and creating amazing web experiences together! 🚀
