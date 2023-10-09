@@ -1,5 +1,5 @@
 ## Hi there! 👋 I'm Delwar Hossain.
-I'M A PASSIONATE FULL STACK WEB DEVELOPER WITH A KNACK FOR CREATING EFFICIENT, SCALABLE, AND AESTHETICALLY PLEASING WEB APPLICATIONS. I LOVE DIVING INTO CODE AND TURNING IDEAS INTO REALITY THROUGH ELEGANT AND FUNCTIONAL SOLUTIONS. SKILLED IN WEB DEVELOPMENT WITH PHP USING LARAVEL, HTML5,CSS3,BOOTSTRAP 4, JAVASCRIPT ES6, AJAX, JQUERY AND VUE JS. STRONG ENGINEERING PROFESSIONAL WITH A BACHELOR OF SCIENCE (B. SC. ) FOCUSED IN BANGLADESH ARMY INTERNATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY (BAIUST)
+I'm a passionate full stack web developer with a knack for creating efficient, scalable, and aesthetically pleasing web applications. I love diving into code and turning ideas into reality through elegant and functional solutions. Skilled in web development with php using laravel, html5,css3,bootstrap 4, javascript es6, ajax, jquery and vue js. Strong engineering professional with a bachelor of science (b. Sc. ) focused in bangladesh army international university of science and technology (BAIUST)
 
 ### 🛠️ Technologies & Tools
 - **Frontend:** HTML, CSS, JavaScript, Vue.js, XML
