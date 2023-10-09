@@ -1,15 +1,23 @@
-# Hi there 👋
+## Hi there! 👋 I'm Delwar Hossain.
+I'm a passionate full stack web developer with a knack for creating efficient, scalable, and aesthetically pleasing web applications. I love diving into code and turning ideas into reality through elegant and functional solutions.
 
+### 🛠️ Technologies & Tools
+- **Frontend:** HTML, CSS, JavaScript, Vue.js, XML
+- **Backend:** Node.js, Express.js, Laravel, Java
+- **Database:** PhpMyAdmin, Firebase, MongoDB, MySQL, PostgreSQL
+- **Tools & Others:** Git, Webpack, Docker, RESTful APIs, visual studio code, Android Studio
 
-**DelwarHossain10/DelwarHossain10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Currently Learning
+I'm constantly striving to expand my knowledge and stay updated with the latest trends in web development. Currently, I'm focusing on improving my skills in [specific technology or area you're currently learning].
 
-Here are some ideas to get you started:
+### 🏢 Work Experience
+- Software Engineer at MBM Group, where I've joined this excellent company as a Assistant Software Engineer. Basically my role is to develop ERP with other team mates who are tremendous. I'm glad to meet a team who are not only experts as their own role but also very much helpful and friendly. I'm Happy To get a friendly working environment. Hopefully this will be one of the best journey of my life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🚀 Side Projects
+Apart from my professional work, I enjoy working on side projects that challenge me and allow me to experiment with new technologies. Here are a few of my notable projects:
+https://erp.mbm.group
+
+### 💬 Let's Connect!
+I'm always eager to connect with fellow developers, discuss innovative ideas, and collaborate on exciting projects. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/delwar-hossain-9a6141253/)
+
+Looking forward to collaborating and creating amazing web experiences together! 🚀
